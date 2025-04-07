@@ -8,4 +8,14 @@
     alt="GitHub Stats" 
   />
 </div>
-![visitors](https://visitor-badge.glitch.me/badge?JasonHan2009=page.id&left_color=green&right_color=red)
+
+
+# --STACK:
+
+PHP
+
+PYTHON
+
+C/CPP
+
+ASM
