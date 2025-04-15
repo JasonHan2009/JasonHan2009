@@ -1,6 +1,7 @@
 ## 你好，我是Yuan2ZheTie
 
-![image](https://tutu.to/image/IH0Ke)
+![u8699495381417618686fm253fmtautoapp120fJPEG-8347bdc5157e3c2dc793c5c444a80ec9.webp](https://t.tutu.to/img/IH0Ke)
+
 # -- 仓库信息
 <div align="left">
   <img 
