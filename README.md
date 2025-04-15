@@ -21,3 +21,6 @@ PYTHON
 C/CPP
 
 ASM
+
+
+#### I LOVE KURUMI!
